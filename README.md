@@ -1,4 +1,4 @@
-This application download all the images from a website domain, Example: If you want to download all the images from example.com/start, it finds all the subpages under the domain example.com and downloads all images from all subpages. Used Java Multi-Threading, each thread crawls a seperate subpage so the entire crawl is very efficient. 
+This application can download all the images from a website domain, Example: If you want to download all the images from example.com/start, it finds all the subpage links under the domain example.com present in this page and downloads all images from all subpages. Used Java Multi-Threading, each thread crawls a seperate subpage so the entire crawl is very efficient. 
 
 ### Requirements
 
